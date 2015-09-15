@@ -1,0 +1,59 @@
+{
+	"ProjectGuid": "c24c0ca0-db3a-429a-b937-212354ba9fd4",
+	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+	"AppIdentifier": "com.telerik.SampleAccelerometer",
+	"ProjectName": "Sample-Accelerometer",
+	"AndroidPermissions": [
+		"android.permission.CAMERA",
+		"android.permission.VIBRATE",
+		"android.permission.ACCESS_COARSE_LOCATION",
+		"android.permission.ACCESS_FINE_LOCATION",
+		"android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+		"android.permission.READ_PHONE_STATE",
+		"android.permission.INTERNET",
+		"android.permission.RECEIVE_SMS",
+		"android.permission.RECORD_AUDIO",
+		"android.permission.MODIFY_AUDIO_SETTINGS",
+		"android.permission.READ_CONTACTS",
+		"android.permission.WRITE_CONTACTS",
+		"android.permission.WRITE_EXTERNAL_STORAGE",
+		"android.permission.ACCESS_NETWORK_STATE"
+	],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"iOSStatusBarStyle": "Default",
+	"BundleVersion": "1.0",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"AndroidVersionCode": "1",
+	"AndroidHardwareAcceleration": "false",
+	"CorePlugins": [
+		"org.apache.cordova.device",
+		"org.apache.cordova.device-motion",
+		"org.apache.cordova.splashscreen"
+	],
+	"FrameworkVersion": "3.7.0",
+	"DisplayName": "Accelerometer",
+	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_HD720P",
+		"ID_RESOLUTION_WVGA",
+		"ID_RESOLUTION_WXGA"
+	],
+	"Author": "",
+	"WP8Publisher": "",
+	"WP8TileTitle": "",
+	"WP8Capabilities": [],
+	"iOSBackgroundMode": [],
+	"WP8Requirements": [],
+	"Description": "Sample-Accelerometer",
+	"Framework": "Cordova",
+	"projectVersion": 1,
+	"WP8PublisherID": "{345ead33-4382-4fef-8ba0-af6999696637}",
+	"WP8ProductID": "{05f35122-36ed-470f-b8ad-0fe27b8fa40e}",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.SampleAccelerometer",
+	"WP8WindowsPublisherName": "CN=Telerik"
+}
